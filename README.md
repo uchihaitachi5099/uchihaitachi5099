@@ -2,4 +2,13 @@
 
 <h2> My name is Uchiha or Itachi</h2>
 <h1 align="center">language</h1>
-<img src="html.png" alt=""><img src="css.png" alt=""><img src="js.png" alt=""><img src="php.png" alt="">
+
+<img src="html.png" alt="" width="32" height="32">
+<img src="css.png" alt="" width="32" height="32">
+<img src="js.png" alt="" width="32" height="32">
+<img src="php.png" alt="" width="32" height="32">
+
+<img src="html.png" alt="" width="32" height="32">
+<img src="css.png" alt="" width="32" height="32">
+<img src="js.png" alt="" width="32" height="32">
+<img src="php.png" alt="" width="32" height="32">
