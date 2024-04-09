@@ -8,8 +8,5 @@
 <img src="js.png" alt="" width="32" height="32">
 <img src="php.png" alt="" width="32" height="32">
 
-<img src="html.png" alt="" width="32" height="32">
-<img src="css.png" alt="" width="32" height="32">
-<img src="js.png" alt="" width="32" height="32">
-<img src="php.png" alt="" width="32" height="32">
+
 </p>
