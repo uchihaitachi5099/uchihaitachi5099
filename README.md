@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on **Small and big projects**
 - 👯 I’m looking to collaborate on **More projects and help others**
 - 👨‍💻 All of my projects are available at **GitHub: https://github.com/uchihaitachi5099?tab=repositories**
-
+- 📫 How to reach me Discord: uchihaitachi5099
 
 
 <h1 align="center">language</h1>
@@ -17,3 +17,7 @@
 
 
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=theghostroot&show_icons=true&theme=tokyonight&locale=en" alt="theghostroot" /></p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/ToolBox/bill.gif" alt="gravity falls" /></p>
