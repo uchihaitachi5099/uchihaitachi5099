@@ -18,6 +18,7 @@
 
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theghostroot&show_icons=true&theme=tokyonight&locale=en" alt="theghostroot" /></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=uchihaitachi5099&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" alt="uchihaitachi5099" /></p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uchihaitachi5099&theme=vue-dark&hide_border=false" alt="uchihaitachi5099" />
 
 <p align="center"><img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/ToolBox/bill.gif" alt="gravity falls" /></p>
