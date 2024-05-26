@@ -1,4 +1,4 @@
-<h1>Hi 👋 i am web developer</h1>
+<h1 align="center">Hi 👋 i am web developer</h1>
 
 <h2> My name is Uchiha or Itachi</h2>
 <h1 align="center">language</h1>
