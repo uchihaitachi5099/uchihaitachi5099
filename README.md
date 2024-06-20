@@ -12,9 +12,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=uchihaitachi5099&theme=darkhub&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies">
-</p>
+
 
 - 🔭 I’m currently working on **Small and big projects**
 - 👯 I’m looking to collaborate on **More projects and help others**
