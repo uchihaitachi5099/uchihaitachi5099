@@ -41,7 +41,7 @@
 
 <h1 align="center">Spotify</h1>
 <p align="center">
-  <img src="https://spotify-now-playing-profile.vercel.app/api/spotify" alt="Spotify Now Playing">
+![Spotify](https://spotify-readme-profile.vercel.app/api/view?uid=uchihaitachi5099&cover_image=true&theme=default)
 </p>
 
 <h1 align="center">Quotes</h1>
