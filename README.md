@@ -12,12 +12,13 @@
   </a>
 </p>
 
+<p align="center">
+  - 🔭 I’m currently working on **Small and big projects**<br>
+  - 👯 I’m looking to collaborate on **More projects and help others**<br>
+  - 👨‍💻 All of my projects are available at **[GitHub](https://github.com/uchihaitachi5099?tab=repositories)**<br>
+  - 📫 How to reach me: Discord: uchihaitachi5099
+</p>
 
-- 🔭 I’m currently working on **Small and big projects**
-- 👯 I’m looking to collaborate on **More projects and help others**
-- 👨‍💻 All of my projects are available at **[GitHub](https://github.com/uchihaitachi5099?tab=repositories)**
-- 📫 How to reach me: Discord: uchihaitachi5099
-- 
 <h1 align="center">Languages & Tools</h1>
 <p align="center">
   <img src="html.png" alt="HTML" width="32" height="32">
