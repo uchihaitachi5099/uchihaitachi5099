@@ -17,7 +17,7 @@
 
 <p align="center" width="100%">
 
-</p>
+<p>
 - 💡 Quotes 
 - ** Don't be a human be better. **
 - **The more errors you have the less you will have**
