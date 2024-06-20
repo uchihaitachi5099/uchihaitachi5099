@@ -4,11 +4,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/uchihaitachi5099" target="_blank">
+  <a href="https://github.com/uchihaitachi5099?tab=followers" target="_blank">
     <img src="https://img.shields.io/badge/Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Followers">
   </a>
   <a href="https://github.com/uchihaitachi5099?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub%20Stars-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stars">
+    <img src="https://img.shields.io/badge/My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stars">
   </a>
 </p>
 
