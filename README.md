@@ -4,8 +4,12 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/uchihaitachi5099?label=Follow%20Me&style=social" alt="GitHub Followers">
-  <img src="https://img.shields.io/github/stars/uchihaitachi5099?label=GitHub%20Stars&style=social" alt="GitHub Stars">
+  <a href="https://github.com/uchihaitachi5099" target="_blank">
+    <img src="https://img.shields.io/github/followers/uchihaitachi5099?label=Follow%20Me&style=social" alt="GitHub Followers">
+  </a>
+  <a href="https://github.com/uchihaitachi5099?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/github/stars/uchihaitachi5099?label=GitHub%20Stars&style=social" alt="GitHub Stars">
+  </a>
 </p>
 
 <p align="center">
