@@ -1,6 +1,5 @@
-<container>
-  <h1 align="center">Hi 👋 i am web developer</h1>
-  <h2 align="center"> My name is Uchiha or Itachi</h2>
+<h1 align="center">Hi 👋 i am web developer</h1>
+<h2 align="center"> My name is Uchiha or Itachi</h2>
 
   - 🔭 I’m currently working on **Small and big projects**
   - 👯 I’m looking to collaborate on **More projects and help others**
