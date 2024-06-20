@@ -39,6 +39,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uchihaitachi5099&layout=compact&theme=vue-dark&hide_border=false" alt="Top Languages">
 </p>
 
+<h1 align="center">Spotify</h1>
+<p align="center">
+  <img src="https://spotify-now-playing-profile.vercel.app/api/spotify" alt="Spotify Now Playing">
+</p>
+
 <h1 align="center">Quotes</h1>
 <p align="center">
   <strong>Don't be a human, be better.</strong><br>
