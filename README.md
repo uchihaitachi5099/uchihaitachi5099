@@ -15,7 +15,7 @@
 <p align="center">
   - 🔭 I’m currently working on **Small and big projects**<br>
   - 👯 I’m looking to collaborate on **More projects and help others**<br>
-  - 👨‍💻 All of my projects are available at **[GitHub](https://github.com/uchihaitachi5099?tab=repositories)**<br>
+  - 👨‍💻 All of my projects are available on <a href="https://github.com/uchihaitachi5099?tab=repositories" style="color: inherit; text-decoration: none;"><strong>GitHub</strong></a><br>
   - 📫 How to reach me: Discord: uchihaitachi5099
 </p>
 
