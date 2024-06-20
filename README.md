@@ -12,6 +12,9 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=uchihaitachi5099&theme=darkhub&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies">
+</p>
 
 - 🔭 I’m currently working on **Small and big projects**
 - 👯 I’m looking to collaborate on **More projects and help others**
@@ -30,7 +33,11 @@
 <h1 align="center">Stats</h1>
 <p align="center" width="100%">
   <img src="https://github-readme-stats.vercel.app/api?username=uchihaitachi5099&show_icons=true&theme=vue-dark&hide_border=false" alt="uchihaitachi5099 GitHub Stats">
+</p>
+<p align="center" width="100%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=uchihaitachi5099&theme=vue-dark&hide_border=false" alt="uchihaitachi5099 Streak Stats">
+</p>
+<p align="center" width="100%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uchihaitachi5099&layout=compact&theme=vue-dark&hide_border=false" alt="Top Languages">
 </p>
 
