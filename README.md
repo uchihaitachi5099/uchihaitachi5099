@@ -5,14 +5,16 @@
 
 <p align="center">
   <a href="https://github.com/uchihaitachi5099" target="_blank">
-    <img src="https://img.shields.io/github/followers/uchihaitachi5099?label=Follow%20Me&style=social" alt="GitHub Followers">
+    <img src="https://img.shields.io/badge/Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Followers">
   </a>
   <a href="https://github.com/uchihaitachi5099?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/github/stars/uchihaitachi5099?label=GitHub%20Stars&style=social" alt="GitHub Stars">
+    <img src="https://img.shields.io/badge/GitHub%20Stars-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stars">
   </a>
 </p>
 
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=uchihaitachi5099&theme=darkhub&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies">
+</p>
 
 - 🔭 I’m currently working on **Small and big projects**
 - 👯 I’m looking to collaborate on **More projects and help others**
