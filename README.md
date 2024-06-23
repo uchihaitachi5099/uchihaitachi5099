@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-<h1 align="center">Hi 👋 I am a Web Developer</h1>
+<h1 align="center">Hi 👋 I am a Front end Developer</h1>
 <h2 align="center"> My name is Uchiha or Itachi</h2>
 </p>
 
