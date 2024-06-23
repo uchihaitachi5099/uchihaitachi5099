@@ -1,55 +1,31 @@
-<p align="center" width="100%">
-<h1 align="center">Hi 👋 I am a Front end Developer</h1>
-<h2 align="center"> My name is Uchiha or Itachi</h2>
-</p>
+<h1 align="center">Hi 👋, I'm uchiha or itachi</h1>
+<h3 align="center">My name is Uchiha or Itachi</h3>
 
-<p align="center">
-  <a href="https://github.com/uchihaitachi5099?tab=followers" target="_blank">
-    <img src="https://img.shields.io/badge/Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Followers">
-  </a>
-  <a href="https://github.com/uchihaitachi5099?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stars">
-  </a>
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=uchihaitachi5099&label=Profile%20views&color=0e75b6&style=flat" alt="uchihaitachi5099" /> </p>
 
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uchihaitachi5099" alt="uchihaitachi5099" /></a> </p>
 
 - 🔭 I’m currently working on **Small and big projects**
+
 - 👯 I’m looking to collaborate on **More projects and help others**
-- 👨‍💻 All of my projects are available at **[GitHub](https://github.com/uchihaitachi5099?tab=repositories)**
-- 📫 How to reach me: Discord: uchihaitachi5099
 
-<h1 align="center">Languages & Tools</h1>
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-</p>
+- 👨‍💻 All of my projects are available at [https://github.com/uchihaitachi5099?tab=repositories](https://github.com/uchihaitachi5099?tab=repositories)
 
-<h1 align="center">Stats</h1>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uchihaitachi5099&show_icons=true&theme=vue-dark&hide_border=false" alt="uchihaitachi5099 GitHub Stats">
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uchihaitachi5099&theme=vue-dark&hide_border=false" alt="uchihaitachi5099 Streak Stats">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uchihaitachi5099&layout=compact&theme=vue-dark&hide_border=false" alt="Top Languages">
+- 💬 Ask me about **site or extensions and discord bot**
+
+- 📫 How to reach me **Discord: uchihaitachi5099**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/uchiha_itachi_5099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uchiha_itachi_5099" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/CdAzWxMT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/CdAzWxMT" height="30" width="40" /></a>
 </p>
 
-<h1 align="center">Spotify Listening</h1>
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=uchihaitachi5099&cover_image=true&theme=novatorem" alt="Spotify Listening" width="400">
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
 
-<h1 align="center">Quotes</h1>
-<p align="center">
-  <strong>Don't be a human, be better.</strong><br>
-  <strong>The more errors you have, the less you will have.</strong>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uchihaitachi5099&show_icons=true&locale=en&layout=compact" alt="uchihaitachi5099" /></p>
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=uchihaitachi5099.uchihaitachi5099" alt="Visitors">
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uchihaitachi5099&show_icons=true&locale=en" alt="uchihaitachi5099" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uchihaitachi5099&" alt="uchihaitachi5099" /></p>
