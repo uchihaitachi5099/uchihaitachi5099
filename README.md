@@ -1,11 +1,11 @@
 <div align="center">
   <h1>💫 About Me:</h1>
-  <ul>
-    <li>🔭 I’m currently working on <strong>Small and big projects</strong></li>
-    <li>👯 I’m looking to collaborate on <strong>More projects and help others</strong></li>
-    <li>👨‍💻 All of my projects are available at <strong><a href="https://github.com/uchihaitachi5099?tab=repositories">GitHub</a></strong></li>
-    <li>📫 How to reach me: Discord: uchihaitachi5099</li>
-  </ul>
+  <p>
+    🔭 I’m currently working on <strong>Small and big projects</strong><br>
+    👯 I’m looking to collaborate on <strong>More projects and help others</strong><br>
+    👨‍💻 All of my projects are available at <strong><a href="https://github.com/uchihaitachi5099?tab=repositories">GitHub</a></strong><br>
+    📫 How to reach me: Discord: uchihaitachi5099
+  </p>
 </div>
 
 <div align="center">
