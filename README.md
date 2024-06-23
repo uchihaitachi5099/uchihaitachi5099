@@ -34,13 +34,13 @@
 
 <h1 align="center">Stats</h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uchihaitachi5099&show_icons=true&theme=dark&hide_border=true" alt="uchihaitachi5099 GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=uchihaitachi5099&show_icons=true&theme=light&hide_border=true" alt="uchihaitachi5099 GitHub Stats">
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uchihaitachi5099&theme=dark&hide_border=true" alt="uchihaitachi5099 Streak Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uchihaitachi5099&theme=light&hide_border=true" alt="uchihaitachi5099 Streak Stats">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uchihaitachi5099&layout=compact&theme=dark&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uchihaitachi5099&layout=compact&theme=light&hide_border=true" alt="Top Languages">
 </p>
 
 <h1 align="center">Spotify Listening</h1>
