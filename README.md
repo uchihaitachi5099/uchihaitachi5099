@@ -12,7 +12,9 @@
 </div>
   </details>
 <details close align="center">
-   <summary><h3>🌐 Socials:</h3></summary>
+<summary>
+<h1>🌐 Socials:</h1>
+</summary>
   <a href="https://discord.gg/7pQskbnqeG">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge&color=2C2C2C" alt="Discord">
   </a>
