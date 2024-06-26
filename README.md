@@ -1,6 +1,8 @@
 <div align="center">
   <details close align="center">
- <summary><h1>💫 About Me:</h1></summary>
+ <summary>
+<h1>💫 About Me:</h1>
+</summary>
   <p>
     🔭 I’m currently working on <strong>Small and big projects</strong><br>
     👯 I’m looking to collaborate on <strong>More projects and help others</strong><br>
