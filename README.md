@@ -8,7 +8,6 @@
   </p>
 </div>
 <details close align="center">
-<div align="center">
   <h2>🌐 Socials:</h2>
   <a href="https://discord.gg/7pQskbnqeG">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge&color=2C2C2C" alt="Discord">
@@ -16,7 +15,6 @@
   <a href="https://instagram.com/uchiha_itachi_5099">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge&color=2C2C2C" alt="Instagram">
   </a>
-</div>
 </details>
 <div align="center">
   <h2>💻 Tech Stack:</h2>
