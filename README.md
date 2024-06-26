@@ -7,7 +7,7 @@
     📫 How to reach me: Discord: uchihaitachi5099
   </p>
 </div>
-
+<details close align="center">
 <div align="center">
   <h2>🌐 Socials:</h2>
   <a href="https://discord.gg/7pQskbnqeG">
@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge&color=2C2C2C" alt="Instagram">
   </a>
 </div>
-
+</details>
 <div align="center">
   <h2>💻 Tech Stack:</h2>
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white&color=2C2C2C" alt="NodeJS">
