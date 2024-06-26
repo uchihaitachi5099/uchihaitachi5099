@@ -26,7 +26,7 @@
     <div>
       <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&color=E34F26" alt="HTML5">
       <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=1572B6" alt="CSS3">
-      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&color=F7DF1E" alt="JavaScript">
+      <img src="https://img.shields.io/badge/javascript-%231572B6.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&color=F7DF1E" alt="JavaScript">
       <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white&color=6DA55F" alt="NodeJS">
       <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1" alt="MySQL">
       <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&color=F05033" alt="Git">
@@ -39,14 +39,15 @@
       <img src="https://github-readme-stats.vercel.app/api?username=uchihaitachi5099&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"><br/>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=uchihaitachi5099&theme=vue-dark&hide_border=true" alt="GitHub Streak Stats"><br/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uchihaitachi5099&theme=vue-dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages">
+       <a href="https://visitcount.itsvg.in/api?id=uchihaitachi5099&icon=0&color=12" style="pointer-events: none;">
+      <img src="https://visitcount.itsvg.in/api?id=uchihaitachi5099&icon=0&color=12" alt="Visitors">
     </div>
   </details>
 
 
 
   <div align="center">
-    <a href="https://visitcount.itsvg.in/api?id=uchihaitachi5099&icon=0&color=12" style="pointer-events: none;">
-      <img src="https://visitcount.itsvg.in/api?id=uchihaitachi5099&icon=0&color=12" alt="Visitors">
+   
     </a>
   </div>
 </div>
