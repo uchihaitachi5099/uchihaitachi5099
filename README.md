@@ -1,5 +1,6 @@
 <div align="center">
-  <h1>💫 About Me:</h1>
+  <details close align="center">
+ <summary><h1>💫 About Me:</h1></summary>
   <p>
     🔭 I’m currently working on <strong>Small and big projects</strong><br>
     👯 I’m looking to collaborate on <strong>More projects and help others</strong><br>
@@ -7,6 +8,7 @@
     📫 How to reach me: Discord: uchihaitachi5099
   </p>
 </div>
+  </details>
 <details close align="center">
    <summary><h3>🌐 Socials:</h3></summary>
   <a href="https://discord.gg/7pQskbnqeG">
