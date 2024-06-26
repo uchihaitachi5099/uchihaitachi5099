@@ -42,7 +42,7 @@
     </div>
   </details>
 
-  <hr>
+
 
   <div align="center">
     <a href="https://visitcount.itsvg.in/api?id=uchihaitachi5099&icon=0&color=12" style="pointer-events: none;">
