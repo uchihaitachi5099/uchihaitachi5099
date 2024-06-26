@@ -28,12 +28,26 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&color=2C2C2C" alt="Git">
 </div>
 
-<div align="center">
-  <h2>📊 GitHub Stats:</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=uchihaitachi5099&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uchihaitachi5099&theme=vue-dark&hide_border=true" alt="GitHub Streak Stats"><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uchihaitachi5099&theme=vue-dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages">
-</div>
+<!-- Add your new sections here -->
+<details close align="center">
+  <summary><h3>📜 Stats</h3></summary>
+  <!-- Insert your stats section here -->
+</details>
+
+<details close align="center">
+  <summary><h3>😄 Fun</h3></summary>
+  <!-- Insert your fun facts section here -->
+</details>
+
+<details close align="center">
+  <summary><h3>🖥️ Skills</h3></summary>
+  <!-- Insert your skills section here -->
+</details>
+
+<details close align="center">
+  <summary><h3>📞 Contact Me</h3></summary>
+  <!-- Insert your contact information here -->
+</details>
 
 <hr>
 
