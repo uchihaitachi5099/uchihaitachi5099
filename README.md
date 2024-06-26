@@ -34,13 +34,15 @@
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&color=F05033" alt="Git">
   </summary>
 
+
+ <details close align="center">
   <summary align="center">
     <h2>📊 GitHub Stats:</h2>
     <img src="https://github-readme-stats.vercel.app/api?username=uchihaitachi5099&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"><br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=uchihaitachi5099&theme=vue-dark&hide_border=true" alt="GitHub Streak Stats"><br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uchihaitachi5099&theme=vue-dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages">
   </summary>
-
+</details>
   <hr>
 
   <div align="center">
