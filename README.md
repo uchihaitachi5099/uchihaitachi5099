@@ -1,7 +1,8 @@
 <div align="center">
   <details close align="center">
-    <summary>💫 About Me:</summary>
-    <h1>About Me:</h1>
+    <summary>
+      <h1 >💫 About Me:</h1>
+    </summary>
     <p>
       🔭 I’m currently working on <strong>Small and big projects</strong><br>
       👯 I’m looking to collaborate on <strong>More projects and help others</strong><br>
@@ -11,11 +12,13 @@
   </details>
 
   <details close align="center">
-    <summary>🌐 Socials:</summary>
-    <a href="https://discord.gg/7pQskbnqeG">
+    <summary>
+      <h1>🌐 Socials:</h1>
+    </summary>
+    <a href="https://discord.gg/7pQskbnqeG" style="pointer-events: none;">
       <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge&color=2C2C2C" alt="Discord">
     </a>
-    <a href="https://instagram.com/uchiha_itachi_5099">
+    <a href="https://instagram.com/uchiha_itachi_5099" style="pointer-events: none;">
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge&color=2C2C2C" alt="Instagram">
     </a>
   </details>
@@ -40,7 +43,7 @@
   <hr>
 
   <div align="center">
-    <a href="https://visitcount.itsvg.in/api?id=uchihaitachi5099&icon=0&color=12">
+    <a href="https://visitcount.itsvg.in/api?id=uchihaitachi5099&icon=0&color=12" style="pointer-events: none;">
       <img src="https://visitcount.itsvg.in/api?id=uchihaitachi5099&icon=0&color=12" alt="Visitors">
     </a>
   </div>
