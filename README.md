@@ -22,11 +22,6 @@
   </details>
   
   <details close align="center">
-<sumary><h1>😄Fun</h1></sumary>
-      <h3>💡 Quotes<h3>
-      <p>The more errors you have the less you will have.</p>
-</details>
-  <details close align="center">
     <summary><h2>💻 Tech Stack:</h2></summary>
     <div>
       <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=black&color=E34F26" alt="HTML5">
