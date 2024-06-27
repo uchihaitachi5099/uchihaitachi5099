@@ -20,6 +20,12 @@
       </a>
     </div>
   </details>
+
+  <details close align="center">
+    <summary><h2>💻 Tech Stack:</h2></summary>
+     <h3>💡 Quotes<h3>
+      <p>The more errors you have the less you will have.</p>
+  </details>
   
   <details close align="center">
     <summary><h2>💻 Tech Stack:</h2></summary>
