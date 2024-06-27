@@ -24,8 +24,7 @@
   <details close align="center">
 <sumary><h1>😄Fun</h1></sumary>
       <h3>💡 Quotes<h3>
-          <p>The more errors you have the less you will have.</p>
-
+      <p>The more errors you have the less you will have.</p>
 </details>
   <details close align="center">
     <summary><h2>💻 Tech Stack:</h2></summary>
