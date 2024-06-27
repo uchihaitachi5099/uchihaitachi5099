@@ -21,9 +21,7 @@
     </div>
   </details>
 <details close align="center">
-<sumary> 
-  <h1>😄Fun</h1>
-</sumary>
+<sumary><h1>😄Fun</h1></sumary>
       <h3>💡 Quotes<h3>
           <p>The more errors you have the less you will have.</p>
 
