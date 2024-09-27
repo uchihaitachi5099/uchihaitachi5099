@@ -29,6 +29,7 @@
   <details close align="center">
     <summary><h2>💡 Quotes:</h2></summary>
     <p>The more errors you have the less you will have.</p>
+    <p>it's not about conding. it's about to change life!</p>
   </details>
   
   <details close align="center">
