@@ -22,9 +22,9 @@
   </details>
 
   <details close align="center">
-    <summary><h2>😄Fun:</h2></summary>
-     <h3>💡 Quotes<h3>
-      <p>The more errors you have the less you will have.</p>
+    <summary><h2>😄 Fun:</h2></summary>
+    <h3>💡 Quotes</h3>
+    <p>The more errors you have the less you will have.</p>
   </details>
   
   <details close align="center">
@@ -32,7 +32,7 @@
     <div>
       <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=black&color=E34F26" alt="HTML5">
       <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=black&color=1572B6" alt="CSS3">
-      <img src= "https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E" alt=js>
+      <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E" alt="JavaScript">
       <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=black&color=6DA55F" alt="NodeJS">
       <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1" alt="MySQL">
       <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=black&color=F05033" alt="Git">
@@ -45,14 +45,11 @@
       <img src="https://github-readme-stats.vercel.app/api?username=uchihaitachi5099&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"><br/>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=uchihaitachi5099&theme=vue-dark&hide_border=true" alt="GitHub Streak Stats"><br/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uchihaitachi5099&theme=vue-dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages">
-       <a href="https://visitcount.itsvg.in/api?id=uchihaitachi5099&icon=0&color=12" style="pointer-events: none;">
-      <img src="https://visitcount.itsvg.in/api?id=uchihaitachi5099&icon=0&color=12" alt="Visitors">
+      <a href="https://visitcount.itsvg.in/api?id=uchihaitachi5099&icon=0&color=12" style="pointer-events: none;">
+        <img src="https://visitcount.itsvg.in/api?id=uchihaitachi5099&icon=0&color=12" alt="Visitors">
+      </a>
     </div>
   </details>
 
-
-
-  <div align="center">
-
-  </div>
+  <div align="center"></div>
 </div>
